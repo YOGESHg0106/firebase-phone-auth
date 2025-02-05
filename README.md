@@ -10,6 +10,14 @@ This is a simple **React + Firebase Phone Authentication** app that enables user
 
 ---
 
+## 🚀 Live App
+
+You can view the live app here:
+
+[**Live Demo**](https://task2-kfso5zr1n-yogesh-s-projects-f4fa46e2.vercel.app/)
+
+---
+
 ## 🚀 Setup Instructions
 
 ### Prerequisites
